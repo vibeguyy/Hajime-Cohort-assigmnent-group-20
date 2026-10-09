@@ -7,13 +7,13 @@ group repo link: https://github.com/Cisco-A/social-media-miniapp.git
 
 my contributions:
 
-Post controller
+Post controller:
 Request handling for all post operations, response formatting, error responses.
 
-Post routes
+Post routes:
 Endpoint definitions, route-level middleware, wiring to the controller.
 
-Integration
+Integration:
 Merged the post schema and service (written by a teammate) into my branch and connected them to the controller.
 
 Branch: feature/posts-controller
